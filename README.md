@@ -30,3 +30,16 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobs-creation&show_icons=true&locale=en" alt="noobs-creation" /></p>
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noobs-creation&label=Profile%20views&color=0e75b6&style=flat" alt="noobs-creation" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobs-creation" alt="noobs-creation" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobs-creation&show_icons=true&locale=en&layout=compact" alt="noobs-creation" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobs-creation&show_icons=true&locale=en" alt="noobs-creation" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobs-creation&" alt="noobs-creation" /></p>
