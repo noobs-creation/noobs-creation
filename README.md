@@ -1,5 +1,5 @@
 <audio preload="auto" loop="true">
-               <source src="NGGYU.mp3" type="audio/mp3">
+               <source src="https://soundcloud.com/siddhanth-das/nggyu-loop" type="audio/mp3">
                <source src="NGGYU.ogg" type="audio/ogg">
 </audio>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobs-creation&label=Profile%20views&color=0e75b6&style=flat" alt="noobs-creation" /> </p>
