@@ -1,4 +1,4 @@
-<audio preload="auto" loop="true">
+<audio preload autoplay loop>
                <source src="https://soundcloud.com/siddhanth-das/nggyu-loop" type="audio/mp3">
                <source src="NGGYU.ogg" type="audio/ogg">
 </audio>
