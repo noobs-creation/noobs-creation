@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="coding-tenor.gif" height="280dp" width="390dp">
+  <img src="coding.gif" height="280dp" width="390dp">
 </p>
 
 ### Hey there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
