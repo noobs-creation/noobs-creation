@@ -33,7 +33,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobs-creation&title=MultiLanguage,Joined2020,Repositories,Commit&theme=discord&no-frame=true&no-bg=true" alt="noobs-creation" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobs-creation&show_icons=true&locale=en&layout=compact" alt="noobs-creation" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=noobs-creation&show_icons=true&locale=en&layout=compact" alt="noobs-creation" />
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobs-creation&" alt="noobs-creation" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noobs-creation&" alt="noobs-creation" /></p>
