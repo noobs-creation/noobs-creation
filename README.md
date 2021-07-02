@@ -1,7 +1,5 @@
-<audio preload autoplay loop>
-               <source src="https://soundcloud.com/siddhanth-das/nggyu-loop" type="audio/mp3">
-               <source src="NGGYU.ogg" type="audio/ogg">
-</audio>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1080290203&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/siddhanth-das" title="Lucifer_Morningstar" target="_blank" style="color: #cccccc; text-decoration: none;">Lucifer_Morningstar</a> · <a href="https://soundcloud.com/siddhanth-das/nggyu-loop" title="Never Gonna Give You Up Loop" target="_blank" style="color: #cccccc; text-decoration: none;">Never Gonna Give You Up Loop</a></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobs-creation&label=Profile%20views&color=0e75b6&style=flat" alt="noobs-creation" /> </p>
 
 <p align="center">
