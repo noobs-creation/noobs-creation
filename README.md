@@ -10,8 +10,8 @@
 
 ## I am Siddhanth !!
 
-- 🔭 I am B.Tech (Computer Science and Engineering) final year student
-- 🛠⚙ I am always curious about exploring and learning new technologies.
+- 🔭 I am B.Tech (Computer Science and Engineering) graduate with 8.5 cgpa
+- 🛠⚙ I am always curious about exploring and learning new technologies
 - 🤝🎓 I am open to collaborate or help fellow coders
 - ⚡ Fun fact: My codes are well documented.(in my mind)
 
