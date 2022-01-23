@@ -4,7 +4,7 @@
   <img src="coding.gif" height="280dp" width="390dp">
 </p>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&lines=Hey)](https://git.io/typing-svg)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&vCenter=true&width=90&height=34&lines=Hey)](https://git.io/typing-svg)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
                 
 
 
