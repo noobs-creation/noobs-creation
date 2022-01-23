@@ -4,11 +4,11 @@
   <img src="coding.gif" height="280dp" width="390dp">
 </p>
 
-### Hey there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&lines=Hey)](https://git.io/typing-svg)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
                 
 
 
-## I am Siddhanth !!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&lines=I+am+Siddhanth+Das)](https://git.io/typing-svg)
 
 - 🔭 I am B.Tech (Computer Science and Engineering) graduate with 8.5 cgpa
 - 🛠⚙ I am always curious about exploring and learning new technologies
@@ -30,7 +30,7 @@
 
 <br>
 
-## Hey there, watch this snake clean up my contributions graph!
+### Hey there, watch this snake clean up my contributions graph!
 
 ![snake gif](https://github.com/noobs-creation/noobs-creation/blob/output/github-contribution-grid-snake.gif)
 
