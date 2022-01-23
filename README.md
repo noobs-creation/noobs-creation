@@ -30,6 +30,8 @@
 
 <br>
 
+## Hey there, watch this snake clean up my contributions graph!
+
 ![snake gif](https://github.com/noobs-creation/noobs-creation/blob/output/github-contribution-grid-snake.gif)
 
 <br>
