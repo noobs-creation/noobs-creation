@@ -8,7 +8,7 @@
                 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&vCenter=true&width=255&height=34&lines=I+am+Siddhanth+Das)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&center=true&vCenter=true&width=255&height=34&lines=I+am+Siddhanth)](https://git.io/typing-svg)
 
 - 🔭 I am B.Tech (Computer Science and Engineering) graduate with 8.5 cgpa
 - 🛠⚙ I am always curious about exploring and learning new technologies
