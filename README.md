@@ -30,6 +30,10 @@
 
 <br>
 
+![snake gif](https://github.com/noobs-creation/noobs-creation/blob/output/github-contribution-grid-snake.gif)
+
+<br>
+
 ### Profile Stats :
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobs-creation&title=MultiLanguage,Joined2020,Repositories,Commit&theme=discord&no-frame=true&no-bg=true" alt="noobs-creation" /></a> </p>
