@@ -13,6 +13,7 @@
 - 🔭 I am B.Tech (Computer Science and Engineering) graduate with 8.5 cgpa
 - 🛠⚙ I am always curious about exploring and learning new technologies
 - 🤝🎓 I am open to collaborate or help fellow coders
+- I am currently learning **JavaScript, NodeJS** and **ReactJS**
 - ⚡ Fun fact: My codes are well documented.(in my mind)
 
 
